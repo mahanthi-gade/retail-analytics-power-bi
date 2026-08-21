@@ -1,0 +1,201 @@
+"product_id","product_name","category","subcategory","unit_cost","list_price"
+1001,Audio Product 01,Electronics,Audio,191.23,392.67
+1002,Accessories Product 02,Electronics,Accessories,99.35,183.14
+1003,Smart Home Product 03,Electronics,Smart Home,300.24,448.47
+1004,Computing Product 04,Electronics,Computing,271.34,538.00
+1005,Audio Product 05,Electronics,Audio,130.69,267.61
+1006,Accessories Product 06,Electronics,Accessories,93.67,150.72
+1007,Smart Home Product 07,Electronics,Smart Home,21.57,40.26
+1008,Computing Product 08,Electronics,Computing,252.20,398.68
+1009,Audio Product 09,Electronics,Audio,97.88,151.75
+1010,Accessories Product 10,Electronics,Accessories,236.29,490.42
+1011,Smart Home Product 11,Electronics,Smart Home,329.87,488.35
+1012,Computing Product 12,Electronics,Computing,115.51,220.64
+1013,Audio Product 13,Electronics,Audio,330.42,575.40
+1014,Accessories Product 14,Electronics,Accessories,39.72,78.33
+1015,Smart Home Product 15,Electronics,Smart Home,332.51,512.31
+1016,Computing Product 16,Electronics,Computing,334.70,489.10
+1017,Audio Product 17,Electronics,Audio,250.82,333.33
+1018,Accessories Product 18,Electronics,Accessories,153.99,242.66
+1019,Smart Home Product 19,Electronics,Smart Home,327.84,501.91
+1020,Computing Product 20,Electronics,Computing,333.97,520.48
+1021,Audio Product 21,Electronics,Audio,211.98,430.13
+1022,Accessories Product 22,Electronics,Accessories,87.54,156.04
+1023,Smart Home Product 23,Electronics,Smart Home,38.64,70.88
+1024,Computing Product 24,Electronics,Computing,46.34,83.08
+1025,Audio Product 25,Electronics,Audio,227.34,390.52
+1026,Accessories Product 26,Electronics,Accessories,128.12,237.85
+1027,Smart Home Product 27,Electronics,Smart Home,132.50,178.51
+1028,Computing Product 28,Electronics,Computing,258.67,397.62
+1029,Audio Product 29,Electronics,Audio,84.42,123.40
+1030,Accessories Product 30,Electronics,Accessories,69.74,118.96
+1031,Smart Home Product 31,Electronics,Smart Home,391.55,593.98
+1032,Computing Product 32,Electronics,Computing,231.90,345.25
+1033,Audio Product 33,Electronics,Audio,355.36,509.64
+1034,Accessories Product 34,Electronics,Accessories,76.62,156.70
+1035,Smart Home Product 35,Electronics,Smart Home,114.54,206.39
+1036,Computing Product 36,Electronics,Computing,108.86,146.32
+1037,Audio Product 37,Electronics,Audio,300.48,528.91
+1038,Accessories Product 38,Electronics,Accessories,237.42,401.88
+1039,Smart Home Product 39,Electronics,Smart Home,335.19,550.86
+1040,Computing Product 40,Electronics,Computing,97.35,177.31
+1041,Kitchen Product 01,Home,Kitchen,80.12,144.73
+1042,Storage Product 02,Home,Storage,109.93,150.30
+1043,Decor Product 03,Home,Decor,57.31,105.86
+1044,Cleaning Product 04,Home,Cleaning,155.30,249.41
+1045,Kitchen Product 05,Home,Kitchen,15.69,31.82
+1046,Storage Product 06,Home,Storage,23.81,36.32
+1047,Decor Product 07,Home,Decor,119.70,200.10
+1048,Cleaning Product 08,Home,Cleaning,14.82,25.25
+1049,Kitchen Product 09,Home,Kitchen,156.45,249.07
+1050,Storage Product 10,Home,Storage,175.25,243.06
+1051,Decor Product 11,Home,Decor,8.70,12.76
+1052,Cleaning Product 12,Home,Cleaning,109.44,173.61
+1053,Kitchen Product 13,Home,Kitchen,48.83,74.04
+1054,Storage Product 14,Home,Storage,22.13,36.77
+1055,Decor Product 15,Home,Decor,88.82,118.89
+1056,Cleaning Product 16,Home,Cleaning,121.94,220.20
+1057,Kitchen Product 17,Home,Kitchen,68.98,130.14
+1058,Storage Product 18,Home,Storage,165.76,229.03
+1059,Decor Product 19,Home,Decor,53.79,81.63
+1060,Cleaning Product 20,Home,Cleaning,81.63,156.15
+1061,Kitchen Product 21,Home,Kitchen,121.79,193.00
+1062,Storage Product 22,Home,Storage,123.73,196.87
+1063,Decor Product 23,Home,Decor,5.79,10.14
+1064,Cleaning Product 24,Home,Cleaning,10.86,14.67
+1065,Kitchen Product 25,Home,Kitchen,157.47,220.89
+1066,Storage Product 26,Home,Storage,41.58,83.80
+1067,Decor Product 27,Home,Decor,164.47,220.72
+1068,Cleaning Product 28,Home,Cleaning,18.83,30.56
+1069,Kitchen Product 29,Home,Kitchen,18.44,26.61
+1070,Storage Product 30,Home,Storage,99.99,193.80
+1071,Decor Product 31,Home,Decor,78.65,124.07
+1072,Cleaning Product 32,Home,Cleaning,53.31,73.61
+1073,Kitchen Product 33,Home,Kitchen,60.16,111.55
+1074,Storage Product 34,Home,Storage,95.42,139.43
+1075,Decor Product 35,Home,Decor,33.06,58.28
+1076,Cleaning Product 36,Home,Cleaning,164.72,248.84
+1077,Kitchen Product 37,Home,Kitchen,71.95,115.14
+1078,Storage Product 38,Home,Storage,21.20,39.04
+1079,Decor Product 39,Home,Decor,58.76,91.14
+1080,Cleaning Product 40,Home,Cleaning,35.33,65.23
+1081,Desk Supplies Product 01,Office,Desk Supplies,24.03,36.59
+1082,Furniture Product 02,Office,Furniture,78.40,106.88
+1083,Printing Product 03,Office,Printing,193.71,387.54
+1084,Organization Product 04,Office,Organization,74.01,110.91
+1085,Desk Supplies Product 05,Office,Desk Supplies,51.88,100.34
+1086,Furniture Product 06,Office,Furniture,269.59,421.30
+1087,Printing Product 07,Office,Printing,150.67,215.34
+1088,Organization Product 08,Office,Organization,194.31,364.34
+1089,Desk Supplies Product 09,Office,Desk Supplies,28.91,48.13
+1090,Furniture Product 10,Office,Furniture,118.18,193.49
+1091,Printing Product 11,Office,Printing,220.24,329.44
+1092,Organization Product 12,Office,Organization,224.82,442.95
+1093,Desk Supplies Product 13,Office,Desk Supplies,105.90,184.17
+1094,Furniture Product 14,Office,Furniture,213.50,388.44
+1095,Printing Product 15,Office,Printing,54.29,89.64
+1096,Organization Product 16,Office,Organization,107.55,192.74
+1097,Desk Supplies Product 17,Office,Desk Supplies,85.79,116.16
+1098,Furniture Product 18,Office,Furniture,145.81,202.19
+1099,Printing Product 19,Office,Printing,123.49,249.89
+1100,Organization Product 20,Office,Organization,321.11,449.68
+1101,Desk Supplies Product 21,Office,Desk Supplies,322.52,436.20
+1102,Furniture Product 22,Office,Furniture,201.50,382.67
+1103,Printing Product 23,Office,Printing,119.37,221.11
+1104,Organization Product 24,Office,Organization,91.07,183.46
+1105,Desk Supplies Product 25,Office,Desk Supplies,131.25,173.64
+1106,Furniture Product 26,Office,Furniture,86.06,123.02
+1107,Printing Product 27,Office,Printing,124.16,207.48
+1108,Organization Product 28,Office,Organization,327.02,431.01
+1109,Desk Supplies Product 29,Office,Desk Supplies,171.87,252.32
+1110,Furniture Product 30,Office,Furniture,41.60,73.88
+1111,Printing Product 31,Office,Printing,280.04,436.08
+1112,Organization Product 32,Office,Organization,169.79,246.28
+1113,Desk Supplies Product 33,Office,Desk Supplies,19.59,30.44
+1114,Furniture Product 34,Office,Furniture,164.43,228.77
+1115,Printing Product 35,Office,Printing,56.22,75.06
+1116,Organization Product 36,Office,Organization,21.63,40.65
+1117,Desk Supplies Product 37,Office,Desk Supplies,180.51,269.79
+1118,Furniture Product 38,Office,Furniture,56.32,109.67
+1119,Printing Product 39,Office,Printing,220.22,401.18
+1120,Organization Product 40,Office,Organization,176.14,269.56
+1121,Strength Product 01,Fitness,Strength,98.15,152.54
+1122,Yoga Product 02,Fitness,Yoga,139.26,187.75
+1123,Cardio Product 03,Fitness,Cardio,54.07,79.45
+1124,Recovery Product 04,Fitness,Recovery,53.85,91.15
+1125,Strength Product 05,Fitness,Strength,134.44,238.37
+1126,Yoga Product 06,Fitness,Yoga,81.14,117.50
+1127,Cardio Product 07,Fitness,Cardio,21.08,34.66
+1128,Recovery Product 08,Fitness,Recovery,265.22,349.47
+1129,Strength Product 09,Fitness,Strength,18.84,34.91
+1130,Yoga Product 10,Fitness,Yoga,74.26,100.17
+1131,Cardio Product 11,Fitness,Cardio,224.75,309.49
+1132,Recovery Product 12,Fitness,Recovery,71.10,135.64
+1133,Strength Product 13,Fitness,Strength,198.68,293.47
+1134,Yoga Product 14,Fitness,Yoga,164.88,217.97
+1135,Cardio Product 15,Fitness,Cardio,112.04,232.35
+1136,Recovery Product 16,Fitness,Recovery,162.28,287.82
+1137,Strength Product 17,Fitness,Strength,174.99,235.55
+1138,Yoga Product 18,Fitness,Yoga,28.52,55.66
+1139,Cardio Product 19,Fitness,Cardio,29.45,46.39
+1140,Recovery Product 20,Fitness,Recovery,66.62,102.60
+1141,Strength Product 21,Fitness,Strength,136.39,253.99
+1142,Yoga Product 22,Fitness,Yoga,124.99,225.64
+1143,Cardio Product 23,Fitness,Cardio,129.17,176.10
+1144,Recovery Product 24,Fitness,Recovery,150.58,297.68
+1145,Strength Product 25,Fitness,Strength,85.86,154.02
+1146,Yoga Product 26,Fitness,Yoga,7.80,11.21
+1147,Cardio Product 27,Fitness,Cardio,125.40,226.62
+1148,Recovery Product 28,Fitness,Recovery,166.24,262.02
+1149,Strength Product 29,Fitness,Strength,75.02,155.41
+1150,Yoga Product 30,Fitness,Yoga,25.88,35.58
+1151,Cardio Product 31,Fitness,Cardio,200.80,317.34
+1152,Recovery Product 32,Fitness,Recovery,188.92,293.76
+1153,Strength Product 33,Fitness,Strength,31.12,60.35
+1154,Yoga Product 34,Fitness,Yoga,84.01,114.81
+1155,Cardio Product 35,Fitness,Cardio,202.37,280.68
+1156,Recovery Product 36,Fitness,Recovery,170.07,315.63
+1157,Strength Product 37,Fitness,Strength,48.25,94.84
+1158,Yoga Product 38,Fitness,Yoga,200.25,275.24
+1159,Cardio Product 39,Fitness,Cardio,96.87,148.17
+1160,Recovery Product 40,Fitness,Recovery,46.31,62.55
+1161,Skincare Product 01,Beauty,Skincare,117.75,156.31
+1162,Haircare Product 02,Beauty,Haircare,106.76,146.89
+1163,Personal Care Product 03,Beauty,Personal Care,6.41,9.34
+1164,Tools Product 04,Beauty,Tools,46.76,63.13
+1165,Skincare Product 05,Beauty,Skincare,104.96,145.39
+1166,Haircare Product 06,Beauty,Haircare,81.48,146.88
+1167,Personal Care Product 07,Beauty,Personal Care,72.86,142.79
+1168,Tools Product 08,Beauty,Tools,113.56,157.63
+1169,Skincare Product 09,Beauty,Skincare,31.13,43.93
+1170,Haircare Product 10,Beauty,Haircare,48.37,85.55
+1171,Personal Care Product 11,Beauty,Personal Care,78.40,144.19
+1172,Tools Product 12,Beauty,Tools,4.88,9.14
+1173,Skincare Product 13,Beauty,Skincare,45.09,62.45
+1174,Haircare Product 14,Beauty,Haircare,97.24,174.21
+1175,Personal Care Product 15,Beauty,Personal Care,69.41,117.26
+1176,Tools Product 16,Beauty,Tools,111.35,176.70
+1177,Skincare Product 17,Beauty,Skincare,86.77,169.37
+1178,Haircare Product 18,Beauty,Haircare,92.65,174.82
+1179,Personal Care Product 19,Beauty,Personal Care,96.14,173.44
+1180,Tools Product 20,Beauty,Tools,14.42,23.97
+1181,Skincare Product 21,Beauty,Skincare,75.24,132.50
+1182,Haircare Product 22,Beauty,Haircare,69.23,111.09
+1183,Personal Care Product 23,Beauty,Personal Care,46.45,72.41
+1184,Tools Product 24,Beauty,Tools,33.64,49.58
+1185,Skincare Product 25,Beauty,Skincare,3.92,5.30
+1186,Haircare Product 26,Beauty,Haircare,67.62,99.23
+1187,Personal Care Product 27,Beauty,Personal Care,90.04,134.84
+1188,Tools Product 28,Beauty,Tools,34.34,68.74
+1189,Skincare Product 29,Beauty,Skincare,69.40,121.24
+1190,Haircare Product 30,Beauty,Haircare,43.00,59.94
+1191,Personal Care Product 31,Beauty,Personal Care,73.87,130.96
+1192,Tools Product 32,Beauty,Tools,35.14,59.12
+1193,Skincare Product 33,Beauty,Skincare,42.45,75.42
+1194,Haircare Product 34,Beauty,Haircare,16.31,27.28
+1195,Personal Care Product 35,Beauty,Personal Care,113.55,169.56
+1196,Tools Product 36,Beauty,Tools,106.33,162.99
+1197,Skincare Product 37,Beauty,Skincare,36.53,57.67
+1198,Haircare Product 38,Beauty,Haircare,2.84,5.07
+1199,Personal Care Product 39,Beauty,Personal Care,51.54,80.23
+1200,Tools Product 40,Beauty,Tools,72.96,119.57
