@@ -1,6 +1,6 @@
-# Retail Analytics Power BI Dashboard
+# Retail Analytics & Customer Insights
 
-Interactive Power BI dashboard analyzing retail revenue, order performance, customer behavior, sales channels, product categories, and regional performance.
+End-to-end retail analytics project using PostgreSQL, SQL, Power Query, Power BI, and DAX to analyze revenue, orders, customer behavior, sales channels, product categories, and regional performance.
 
 ## Project Overview
 
