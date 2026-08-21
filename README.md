@@ -4,14 +4,55 @@ Interactive Power BI dashboard analyzing retail revenue, order performance, cust
 
 ## Project Overview
 
-This project is an end-to-end Power BI analytics solution built to transform retail transaction data into actionable insights across revenue, orders, customer behavior, sales channels, product categories, and regional performance.
+This project is an end-to-end retail analytics solution that transforms raw transactional CSV data into actionable business insights using PostgreSQL, SQL, Power Query, Power BI, DAX, and GitHub.
+
+The workflow covers data ingestion, relational querying, data-quality validation, analytical SQL, semantic modeling, KPI development, interactive dashboard design, and business analysis.
 
 The dashboard is designed as a two-page business intelligence solution:
 
 - **Executive Overview** — high-level KPIs and performance trends
 - **Customer & Order Analysis** — customer behavior, order frequency, channel usage, and segment performance
 
-## Business Questions
+## End-to-End Analytics Workflow
+
+The project follows this analytical workflow:
+
+**Raw CSV Data → PostgreSQL → SQL Analysis & Validation → Power Query → Power BI Semantic Model → DAX Measures → Interactive Dashboard → Business Insights → GitHub Documentation**
+
+### 1. Source Data
+Five CSV datasets were used:
+
+- `customers.csv`
+- `orders.csv`
+- `order_items.csv`
+- `products.csv`
+- `regions.csv`
+
+### 2. PostgreSQL & SQL Analysis
+The source tables were loaded into PostgreSQL and analyzed using SQL to:
+
+- Calculate revenue, orders, Average Order Value, units sold, and customer KPIs
+- Analyze product categories, regions, sales channels, and customer segments
+- Perform customer-level and repeat-purchase analysis
+- Compare 2024 and 2025 performance
+- Calculate YoY changes using CTEs and window functions
+- Perform conditional aggregation using `CASE`
+- Analyze discount behavior and order-status distribution
+- Validate duplicates, null values, invalid values, and referential integrity
+
+### 3. Power BI Data Model
+The cleaned analytical data was modeled in Power BI using relationships between customers, orders, order items, products, regions, and a dedicated Date dimension.
+
+### 4. DAX & KPI Development
+Reusable DAX measures were created for revenue, order performance, customer behavior, completion/cancellation rates, Average Order Value, discounts, and year-over-year analysis.
+
+### 5. Dashboard & Business Analysis
+Two interactive Power BI report pages were developed:
+
+- **Executive Overview**
+- **Customer & Order Analysis**
+
+The dashboards support year-based filtering, cross-filtering, trend analysis, and drill-down across product, customer, channel, and regional performance.## Business Questions
 
 This dashboard was developed to answer key retail performance questions:
 
@@ -122,6 +163,8 @@ Detailed DAX formulas are documented in the [`dax`](dax/) folder.
 
 ## Tools & Skills Demonstrated
 
+- **PostgreSQL** — relational database used for storing and analyzing retail transaction data
+- **SQL** — joins, aggregations, CTEs, window functions, CASE expressions, time-series analysis, KPI calculations, and data-quality validation
 - **Power BI** — interactive dashboard development and report design
 - **DAX** — custom measures and KPI calculations
 - **Data Modeling** — relational semantic model and table relationships
@@ -130,6 +173,7 @@ Detailed DAX formulas are documented in the [`dax`](dax/) folder.
 - **Data Visualization** — business-focused charts, KPI cards, and trend analysis
 - **Customer Segmentation** — analysis of Consumer, Small Business, and Corporate segments
 - **Business Intelligence** — translating retail data into actionable performance insights
+
 ## Repository Structure
 
 ```text
@@ -138,13 +182,21 @@ retail-analytics-power-bi/
 ├── README.md
 ├── dashboard/
 │   └── Retail Analytics Dashboard.pbix
-├── screenshots/
-│   ├── executive-overview.png
-│   └── customer-order-analysis.png
+├── data/
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── regions.csv
+│   └── README.md
+├── sql/
+│   ├── retail_analytics_queries.sql
+│   └── README.md
 ├── dax/
 │   └── README.md
-└── data/
-    └── README.md
+└── screenshots/
+    ├── executive-overview.png
+    └── customer-order-analysis.png
 ```
 
 ## Author
