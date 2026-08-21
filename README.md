@@ -43,7 +43,7 @@ Analysis includes:
 - Completed Revenue by Region
 - Year-based filtering
 
-![Executive Overview](screenshots/Executive Overview.png)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### 2. Customer & Order Analysis
 
